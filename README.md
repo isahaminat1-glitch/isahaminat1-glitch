@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi👋,I'm Isah Aminat
+Data Analytics student/🖥️Excel/Tableau/SQL
+Welcome to my Github profile
+I use this space to share my data project,reports and dashboard
 
-<!--
-**isahaminat1-glitch/isahaminat1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My interest 
+-Data cleaning and visualization
+-SQL and Excel analysis
 
 Here are some ideas to get you started:
 
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...Isahaminat1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
